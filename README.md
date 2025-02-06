@@ -1,6 +1,45 @@
-Hi my name is Melina Behzadi Nejad and this is my Chat Application for Comp 3133 Lab Test 01. 
+COMP 3133 Lab Test 01 - Real-Time Chat Application
 
-Users can join different rooms and chat with each other in the rooms after signing up and logging in. 
+Hi, my name is Melina Behzadi Nejad, and this is my Chat Application project for COMP 3133 Lab Test 01. This application allows users to sign up, log in, join predefined chat rooms, and chat with other users in real-time. The app is built using a Node.js backend with Socket.io and MongoDB for persistence.
+_________________________________________________________________________________________________________________________________
+Features
+
+User Authentication:
+Users can sign up with a unique username.
+Login functionality with password-based authentication.
+Session Management is implemented using JSON Web Tokens (JWT) stored in the browser's localStorage.
+Logout functionality to end the session.
+
+
+Real-Time Messaging:
+Users can send and receive real-time messages using Socket.io.
+Messages are displayed immediately in the chat box when received.
+Typing indicators are shown when a user is typing in the room.
+
+
+Room-based Chat:
+Users can join any room from a list of predefined rooms (e.g., NodeJS, DevOps, Cloud Computing).
+Only users in the same room can send and receive messages from each other.
+Users can leave rooms, and the chat history for that session is cleared.
+
+
+Message Storage:
+All chat messages are stored in MongoDB.
+Message schemas include fields for the sender, room name, message content, and timestamp.
+Users can view chat history when they join a room.
+
+_________________________________________________________________________________________________________________________________
+
+Technologies Used
+
+Node.js (Server-side JavaScript runtime)
+Express.js (Web framework for Node.js)
+Socket.io (Real-time communication library)
+MongoDB (NoSQL database for data persistence)
+Mongoose (Object Data Modeling (ODM) library for MongoDB)
+JWT (JSON Web Tokens) (Authentication and session management)
+HTML5, CSS, Bootstrap (Frontend design and layout)
+JavaScript (Frontend scripting)
 _________________________________________________________________________________________________________________________________
 
 The first page you see is the homepage after running the application in http://localhost:5050/index.html
