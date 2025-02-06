@@ -35,4 +35,13 @@ ________________________________________________________________________________
 If you leave a room you will see a message like this: 
 <img width="1470" alt="Chat room after leaving the room" src="https://github.com/user-attachments/assets/9d7cf0a5-56f4-4db4-a122-e81bb3a1a19f" />
 
+_________________________________________________________________________________________________________________________________
+
+all the Users and Messages will be saved in the mongoDB database: 
+
+<img width="1470" alt="Screenshot 2025-02-05 at 11 48 35 PM" src="https://github.com/user-attachments/assets/12edd7d9-96b8-4caa-8c39-cad2bbedc16a" />
+
+<img width="1470" alt="Screenshot 2025-02-05 at 11 49 51 PM" src="https://github.com/user-attachments/assets/64c8491d-2a9c-4813-be8f-1f1db33968d7" />
+
+
 
