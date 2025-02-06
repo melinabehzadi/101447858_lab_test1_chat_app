@@ -28,3 +28,11 @@ After logging in you can join a room and chat with other users in those rooms:
 
 In this page you can also leave the room, and logout from your account by clicking on the "Logout" and "Leave Room" buttons.
 
+
+
+_________________________________________________________________________________________________________________________________
+
+If you leave a room you will see a message like this: 
+<img width="1470" alt="Chat room after leaving the room" src="https://github.com/user-attachments/assets/9d7cf0a5-56f4-4db4-a122-e81bb3a1a19f" />
+
+
